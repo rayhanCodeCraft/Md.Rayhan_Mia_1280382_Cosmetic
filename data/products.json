@@ -1,0 +1,37 @@
+[
+  {
+    "id": "PROD_1",
+    "product_title": "Sample Product 1",
+    "product_price": 25.5,
+    "product_description": "This is a sample product description.",
+    "image_path": "/uploads/nars-1485-2188495-1.webp"
+  },
+  {
+    "id": "PROD_2",
+    "product_title": "Sample Product 2",
+    "product_price": 50.51,
+    "product_description": "This is another sample product description.",
+    "image_path": "/uploads/makeUp kits.jpeg"
+  },
+  {
+    "id": "PROD_1714408547538_319",
+    "product_title": "Huda Beauty",
+    "product_price": "1200",
+    "product_description": "Drak Red LipStick",
+    "image_path": "uploads/product-1714408547532.jpg"
+  },
+  {
+    "id": "PROD_1714408909755_153",
+    "product_title": "Dove",
+    "product_price": "200",
+    "product_description": "Dove Body Shop",
+    "image_path": "uploads/product-1714408909752.jpg"
+  },
+  {
+    "id": "PROD_1714413374836_313",
+    "product_title": "Tibet",
+    "product_price": "800",
+    "product_description": "Face Snow",
+    "image_path": "uploads/product-1714413374832.jpg"
+  }
+]
